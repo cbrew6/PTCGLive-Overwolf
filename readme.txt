@@ -7,7 +7,8 @@ The goal is to
 
 
 
-
+https://dev.overwolf.com/ow-native/getting-started/basic-sample-app/#5-load-the-app-as-unpacked-extension
+https://www.overwolf.com/app-proposal-submission-form/app-submission-form
 
 
 1. Set Up Your Overwolf App
